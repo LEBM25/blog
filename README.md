@@ -12,7 +12,7 @@ Blog se realizo en
   las rutas principales son "Blog" para el nodeJs y Blog-vue para VueJs. 
   Blog-vue se encuentra dentro de la carpeta Blog.
   
-para iniciar el sistema se debe instalar las depedencia tanto para el node y vueJs
+para iniciar el sistema se debe instalar las depedencia tanto para el node y vueJs,tambien se debe instalar mongoDb
 
 para instalar las dependencias en node, abrir el cmd en la ruta de Blog y ejecutar el siguiente comando, y para la de vueJs ubicarse en la carpeta Blog-vue que se encuentra en el mismo directorio
 
